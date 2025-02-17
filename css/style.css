@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: darkblue;
+    color: white;
+}
+.flex {
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 2px;
+    flex-wrap: wrap;
+}
+.blogContainer {
+    /* padding: 10px; */
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
+footer a {
+    color: white;
+}
